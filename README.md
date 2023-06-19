@@ -1,28 +1,27 @@
-# Device configuration for Xiaomi 12 lite (taoyao)
+# Device configuration for Xiaomi 12 Lite (taoyao)
 
-The Xiaomi 12 lite (codenamed _"taoyao"_) is a high-end smartphone from Xiaomi. It was released in October 2021.
+The Xiaomi 12 Lite (codenamed _"taoyao"_) is a high-end smartphone from Xiaomi. It was released in July 2022.
 
 ## Device specifications
 
-| Feature                 | Specification                                                                                                                       |
-|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| Chipset                 | Qualcomm SM7325 Snapdragon 778G (6nm)                                                                                               |
-| CPU                     | Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)                                                                                 |
-| GPU                     | Adreno 642L                                                                                                                         |
-| Memory                  | 6/8 GB (LPDDR4X)                                                                                                                    |
-| Storage                 | 64/128/256 GB UFS 2.2                                                                                                                  |
-| Shipped Android Version | Android 12, MIUI 13.0                                                                                                               |
-| Battery                 | 4250 mAH Li-Po (non-removable), Fast charging 33W                                                                                   |
-| Display                 | 6.55 inch, 2400x1080 (20:9 ratio), 90hz, 10bit, AMOLED, Dolby Vision, HDR10+, 500 nits (typ) and 800 nits (HBM), (~402 ppi density) |
-| Rear Camera 1           | 64 MP, f/1.8, 26mm (wide), 1/1.97", 0.7µm, PDAF                                                                                     |
-| Rear Camera 2           | 8 MP, f/2.2, 119˚ (ultrawide), 1/4.0", 1.12µm                                                                                       |
-| Rear Camera 3           | 5 MP, f/2.4, 50mm (telephoto macro), 1/5.0", 1.12µm, AF                                                                             |
-| Front Camera            | 20 MP, f/2.2, 27mm (wide), 1/3.4", 0.8µm                                                                                            |
-| Fingerprint             | Sidemounted                                                                                                                         |
-
+| Feature                 | Specification                                                                                                    |
+| :---------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| Chipset                 | Qualcomm SM7325 Snapdragon 778G (6nm)                                                                            |
+| CPU                     | Octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55)                                   |
+| GPU                     | Adreno 642L                                                                                                      |
+| Memory                  | 6/8 GB (LPDDR4X)                                                                                                 |
+| Storage                 | 128/256 GB UFS 2.2                                                                                               |
+| Shipped Android Version | Android 12, MIUI 13.0                                                                                            |
+| Battery                 | 4300 mAH Li-Po (non-removable), Fast charging 67W                                                                |
+| Display                 | 6.55 inch, 2400x1080 (20:9 ratio), 120Hz, 10bit, AMOLED, Dolby Vision, HDR10+, 950 nits (peak), ~402 ppi density |
+| Rear Camera 1           | 108 MP, f/1.9, 26mm (wide), 1/1.52", 0.7µm, PDAF                                                                 |
+| Rear Camera 2           | 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0", 1.12µm                                                                    |
+| Rear Camera 3           | 2 MP, f/2.4, 50mm (telephoto macro), 1/5.0", 1.12µm, AF                                                          |
+| Front Camera            | 32 MP, f/2.5, 26mm (wide), 1/2.8", 0.8µm, AF                                                                     |
+| Fingerprint             | Under display (optical)                                                                                          |
 
 ## Device picture
 
-![Xiaomi 11 lite NE 5G](https://i02.appmifile.com/984_operator_sg/02/11/2021/fc9dd7c4de97018c179efc57616cd85b.png)
+![Xiaomi 12 Lite](https://github.com/richardqcarvalho/richardqcarvalho/assets/55627630/fe01e20f-c123-4eb8-9ac0-68a41d4461da)
 
 Copyright (C) 2022 PixelOS
